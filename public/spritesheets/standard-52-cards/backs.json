@@ -1,0 +1,20 @@
+{
+  "source": "spritesheets/standard-52-cards/backs.png",
+  "sprites": [
+    { "name": "blue1", "x": 140, "y": 380, "width": 140, "height": 190 },
+    { "name": "blue2", "x": 280, "y": 570, "width": 140, "height": 190 },
+    { "name": "blue3", "x": 280, "y": 380, "width": 140, "height": 190 },
+    { "name": "blue4", "x": 280, "y": 190, "width": 140, "height": 190 },
+    { "name": "blue5", "x": 280, "y": 0, "width": 140, "height": 190 },
+    { "name": "green1", "x": 140, "y": 760, "width": 140, "height": 190 },
+    { "name": "green2", "x": 140, "y": 570, "width": 140, "height": 190 },
+    { "name": "green3", "x": 280, "y": 760, "width": 140, "height": 190 },
+    { "name": "green4", "x": 140, "y": 190, "width": 140, "height": 190 },
+    { "name": "green5", "x": 140, "y": 0, "width": 140, "height": 190 },
+    { "name": "red1", "x": 0, "y": 760, "width": 140, "height": 190 },
+    { "name": "red2", "x": 0, "y": 570, "width": 140, "height": 190 },
+    { "name": "red3", "x": 0, "y": 380, "width": 140, "height": 190 },
+    { "name": "red4", "x": 0, "y": 190, "width": 140, "height": 190 },
+    { "name": "red5", "x": 0, "y": 0, "width": 140, "height": 190 }
+  ]
+}

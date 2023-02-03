@@ -1,0 +1,478 @@
+{
+  "background": "tables/uno/bg.jpg",
+  "mainScale": 1,
+  "handScale": 0.7,
+  "stacks": [
+    {
+      "position": { "x": -300, "y": 0 },
+      "flipped": true,
+      "rotation": 0,
+      "elevation": 1,
+      "shuffle": true,
+      "name": "Compra",
+      "style": "simple",
+      "taking": "one",
+      "frontSpriteSheetSource": "spritesheets/uno/cards.json",
+      "backSpriteSheetSource": "spritesheets/uno/cards.json",
+      "repeat": 1,
+      "deck": [
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellowPick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellowSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellowReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "bluePick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blueSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blueReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "redPick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "redSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "redReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "greenPick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "greenSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "greenReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "wild"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "wildPick4"
+        }
+      ]
+    },
+    {
+      "position": { "x": -100, "y": 0 },
+      "flipped": true,
+      "rotation": 0,
+      "elevation": 1,
+      "shuffle": true,
+      "style": "simple",
+      "taking": "one",
+      "frontSpriteSheetSource": "spritesheets/uno/cards.json",
+      "backSpriteSheetSource": "spritesheets/uno/cards.json",
+      "repeat": 1,
+      "deck": [
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellow0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellowPick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellowSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "yellowReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blue0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "bluePick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blueSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "blueReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "red0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "redPick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "redSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "redReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green1"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green3"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green4"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green5"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green6"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green7"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green8"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green9"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "green0"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "greenPick2"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "greenSkip"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "greenReverse"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "wild"
+        },
+        {
+          "backSprite": "back",
+          "frontSprite": "wildPick4"
+        }
+      ]
+    },
+    {
+      "position": { "x": 200, "y": 0 },
+      "flipped": false,
+      "rotation": 0,
+      "elevation": 0,
+      "defaultStack": true,
+      "shuffle": true,
+      "style": "messy",
+      "taking": "top"
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "background": "tables/standard-52-cards/bg.jpg",
+  "mainScale": 1,
+  "handScale": 0.7,
+  "stacks": [
+    {
+      "position": { "x": -200, "y": 0 },
+      "flipped": true,
+      "rotation": 0,
+      "elevation": 1,
+      "shuffle": true,
+      "style": "simple",
+      "taking": "top",
+      "frontSpriteSheetSource": "spritesheets/standard-52-cards/cards.json",
+      "backSpriteSheetSource": "spritesheets/standard-52-cards/backs.json",
+      "repeat": 1,
+      "deck": [
+        {
+            "backSprite": "blue4",
+            "frontSprite": "10-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "2-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "3-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "4-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "5-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "6-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "7-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "8-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "9-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "A-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "J-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "K-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "Q-clubs"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "10-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "2-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "3-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "4-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "5-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "6-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "7-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "8-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "9-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "A-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "J-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "K-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "Q-diamonds"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "10-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "2-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "3-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "4-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "5-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "6-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "7-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "8-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "9-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "A-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "J-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "K-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "Q-hearts"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "joker"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "10-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "2-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "3-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "4-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "5-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "6-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "7-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "8-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "9-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "A-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "J-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "K-spades"
+        },
+        {
+            "backSprite": "blue4",
+            "frontSprite": "Q-spades"
+        }
+    ]
+    },
+    {
+      "position": { "x": 0, "y": 0 },
+      "flipped": true,
+      "rotation": 0,
+      "elevation": 1,
+      "shuffle": true,
+      "name": "Compra",
+      "style": "simple",
+      "taking": "top",
+      "frontSpriteSheetSource": "spritesheets/standard-52-cards/cards.json",
+      "backSpriteSheetSource": "spritesheets/standard-52-cards/backs.json",
+      "repeat": 1,
+      "deck": [
+        {
+            "backSprite": "red4",
+            "frontSprite": "10-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "2-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "3-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "4-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "5-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "6-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "7-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "8-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "9-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "A-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "J-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "K-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "Q-clubs"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "10-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "2-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "3-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "4-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "5-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "6-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "7-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "8-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "9-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "A-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "J-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "K-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "Q-diamonds"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "10-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "2-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "3-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "4-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "5-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "6-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "7-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "8-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "9-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "A-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "J-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "K-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "Q-hearts"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "joker"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "10-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "2-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "3-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "4-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "5-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "6-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "7-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "8-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "9-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "A-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "J-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "K-spades"
+        },
+        {
+            "backSprite": "red4",
+            "frontSprite": "Q-spades"
+        }
+    ]
+    },
+    {
+      "position": { "x": 200, "y": 0 },
+      "flipped": false,
+      "rotation": 0,
+      "elevation": 0,
+      "defaultStack": true,
+      "shuffle": true,
+      "style": "messy",
+      "taking": "top"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png"  href="/favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Monoton&family=Noto+Sans+JP:wght@300;700&display=swap" rel="stylesheet">
+    <title>AirDeck</title>
+    <style>
+      .watermark{
+        z-index: 99999999999;
+        position: fixed;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 100%;
+        color: white;
+        font-size: 10vw;
+        font-family: 'Monoton', cursive;
+        background-color: rgba(0, 132, 255, 0.7);
+        text-align: center;
+      }
+      .watermark div{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .watermark span{
+        display: block;
+        margin-top: -1vw;
+        font-size: 5vw;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <div class="watermark">
+        <div>AirDeck</div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
